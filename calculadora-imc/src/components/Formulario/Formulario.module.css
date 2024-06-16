@@ -1,0 +1,30 @@
+.mensagem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+    margin-left: 42px;
+}
+
+.resultado {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.insira {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+.cor {
+    color: rgb(113, 113, 240);
+}
+
+.corV {
+    color: rgb(254, 72, 72);
+}
